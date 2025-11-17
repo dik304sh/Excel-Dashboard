@@ -13,7 +13,7 @@ Pivot Tables, Slicers, Charts, Conditional Formatting, and KPIs.
 4.Visually clean dashboard for business review
 
 Files Included
-dashboard.xlsx – main dashboard file
+Sales Data Set for Dashboard.xlsx – main dashboard file
 dashboard.png – screenshot of dashboard
 
 🛠 Tools Used
