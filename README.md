@@ -14,6 +14,7 @@ Pivot Tables, Slicers, Charts, Conditional Formatting, and KPIs.
 
 Files Included
 Sales Data Set for Dashboard.xlsx – main dashboard file
+
 dashboard.png – screenshot of dashboard
 
 🛠 Tools Used
