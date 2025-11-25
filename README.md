@@ -8,8 +8,11 @@ Pivot Tables, Slicers, Charts, Conditional Formatting, and KPIs.
 
 **Features**
 1.Sales analysis by region, category, and month
+
 2.Dynamic slicers for filtering
+
 3.KPI indicators for total sales & YoY trends
+
 4.Visually clean dashboard for business review
 
 Files Included
